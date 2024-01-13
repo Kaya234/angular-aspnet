@@ -21,4 +21,4 @@ It provides an intuitive interface to browse through a collection of courses, fi
 
 **Back-end:** ASP.NET
 
-**Data Modeling:** Courses are represented as ??? relevant details such as title, description, thumbnail path, category, capcity, city.
+**Data Modeling:** Courses are represented as object with relevant details such as title, description, thumbnail path, category, capcity, city.
